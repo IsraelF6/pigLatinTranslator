@@ -6,6 +6,8 @@ Made By: Israel Felhandler
 
 This program has a function which takes a string as a parameter and returns the pig latin version of that string. 
 The program is able to handle punctuation, ignore numbers, as well as handle multiple sentences.
+There is also a small driver function which tests the outcome of the functions for correctness.
+
 
 Pig Lating: takes the first letter of a "word" and appends it to the end and adds "ay" to the end as well.
 EX: "hello" --> "ellohay"
